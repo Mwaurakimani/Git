@@ -1,5 +1,5 @@
 <?php
   echo "hellow";
-  echo "theses";
+  echo "the";
   echo "workin";
 ?>
