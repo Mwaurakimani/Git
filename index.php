@@ -1,3 +1,3 @@
 <?php
-  echo "hellow";
+  echo "skipped";
 ?>
