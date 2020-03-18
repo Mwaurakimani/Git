@@ -1,5 +1,4 @@
 <?php
   echo "master";
-
-  echo "added a footer";
+  echo "continued working on the project";
 ?>
