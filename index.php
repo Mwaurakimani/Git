@@ -1,5 +1,5 @@
 <?php
   echo "master";
 
-  echo "added issue 540";
+  echo "added a footer";
 ?>
