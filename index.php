@@ -1,5 +1,5 @@
 <?php
 echo "first project";
-echo "hot fix";
-echo "started version ";
+echo "hotfix";
+echo "done with fork";
 ?>
